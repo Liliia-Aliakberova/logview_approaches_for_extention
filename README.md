@@ -1,3 +1,8 @@
+# Extended Repository: Logview repository
+
+This repository is an extended version of Logview repository (https://github.com/fzerbato/logview).
+
+
 [![GPL-3.0 License](https://img.shields.io/badge/License-GPL%203.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 <!-- PROJECT LOGO -->
